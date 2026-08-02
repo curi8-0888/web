@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://curi8.co.jp/sitemap.xml
